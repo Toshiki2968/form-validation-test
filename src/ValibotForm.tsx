@@ -19,7 +19,7 @@ type FormData = {
   age: number;
 };
 
-const MyForm = () => {
+const ValibotForm = () => {
   const {
     register,
     handleSubmit,
@@ -56,4 +56,4 @@ const MyForm = () => {
   );
 };
 
-export default MyForm;
+export default ValibotForm;
